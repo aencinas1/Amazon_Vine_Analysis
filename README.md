@@ -18,3 +18,13 @@ Using code from the images below, I was able to filter all Vine reviewers' revie
 - Out of those, there were 15 5-star reviews.
 - Of all reviews left by Vine reviewers, 31.91% were 5-star reviews.
 
+---
+I then collected the same information for non-vine reviews.
+
+![](Images/get_not_vine.png)
+
+![](Images/not_vine_reviews.png)
+
+- There were 8362 reviews left by independent reviewers.
+- Out of those, there were 4332 5-star reviews.
+- Of all reviews left by independent reviewers, 51.81% were 5-star reviews.
